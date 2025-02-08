@@ -1,9 +1,10 @@
 package com.metaprogramming.metaprogramming.service;
 
+import org.springframework.stereotype.Service;
+
 import com.metaprogramming.metaprogramming.entity.user.User;
 import com.metaprogramming.metaprogramming.repository.GenericRepository;
 import com.metaprogramming.metaprogramming.repository.user.UserRepository;
-import org.springframework.stereotype.Service;
 
 @Service
 public class PerformanceTestService {
@@ -16,7 +17,7 @@ public class PerformanceTestService {
     }
 
     public void runPerformanceTest() {
-        User user = new User(3, "Juan", "Perez", "juan.perez@example.com");
+        User user = new User(7, "Juan", "Perez", "juan.perez@example.com");
 
         // Prueba con Reflection
         long startReflection = System.nanoTime();
@@ -33,7 +34,7 @@ public class PerformanceTestService {
         long startManual = System.nanoTime();
         long memoryBeforeManual = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
 
-        userRepository.insertUser(4, "Carlos", "Lopez", "carlos.lopez@example.com");
+        userRepository.insertUser(8, "Carlos", "Lopez", "carlos.lopez@example.com");
 
         long endManual = System.nanoTime();
         long memoryAfterManual = Runtime.getRuntime().totalMemory() - Runtime.getRuntime().freeMemory();
