@@ -1,0 +1,14 @@
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\bin\Debug\net9.0\WithMetaprogramming.exe
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\bin\Debug\net9.0\WithMetaprogramming.deps.json
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\bin\Debug\net9.0\WithMetaprogramming.runtimeconfig.json
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\bin\Debug\net9.0\WithMetaprogramming.dll
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\bin\Debug\net9.0\WithMetaprogramming.pdb
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\WithMetaprogramming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\WithMetaprogramming.AssemblyInfoInputs.cache
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\WithMetaprogramming.AssemblyInfo.cs
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\WithMetaprogramming.csproj.CoreCompileInputs.cache
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\WithMetaprogramming.dll
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\refint\WithMetaprogramming.dll
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\WithMetaprogramming.pdb
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\WithMetaprogramming.genruntimeconfig.cache
+C:\Users\Maquina\Desktop\Metaprogramación\WithMetaprogramming\obj\Debug\net9.0\ref\WithMetaprogramming.dll
